@@ -1,1 +1,0 @@
-# adolf-stock-website-backup
