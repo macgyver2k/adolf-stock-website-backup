@@ -1,5 +1,5 @@
 <template>
-  <nav class="border-b p-4">
+  <nav class="border-y p-4 shadow-lg">
     <ul class="flex flex-row gap-4 md:gap-6 lg:gap-8">
       <li
         class="flex items-center hover:text-green-600 focus:text-gray-700"

@@ -1,12 +1,16 @@
 <template>
-  <div class="flex min-h-screen flex-col bg-[url('images/mic.jpg')] bg-cover">
+  <div
+    class="flex min-h-screen flex-col bg-[url('images/mic.jpg')] bg-cover md:bg-[url('images/38d615_9af78986b2ca44cdbc93872bd31a3198~mv2.webp')]"
+  >
     <div class="px-4 py-8 lg:max-w-[50rem] lg:self-center">
-      <h1 class="text-4xl">NACH<span class="text-[#80885b]">GEFRAGT</span></h1>
+      <h1 class="text-4xl md:text-6xl lg:text-8xl">
+        NACH<span class="text-[#80885b]">GEFRAGT</span>
+      </h1>
       <h2 class="text-3xl text-white">Das Interviewprojekt von Adolf Stock</h2>
-      <h3 class="text-white">Neue Interviews</h3>
+      <h3 class="text-white lg:mt-40">Neue Interviews</h3>
 
       <div
-        class="mx-4 flex flex-col gap-4 md:grid md:grid-cols-2 lg:grid-cols-3"
+        class="mx-4 flex flex-col gap-4 md:mx-0 md:grid md:grid-cols-2 lg:grid-cols-3"
       >
         <ContentQuery :path="'posts'">
           <template #default="{ data }">
