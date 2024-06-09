@@ -7,7 +7,15 @@
           <h1>{{ doc.title }}</h1>
         </div>
         <div class="flex flex-col">
-          <img :src="doc.img" />
+          <iframe
+            :src="doc.youtube"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+
+          <!-- <img :src="doc.img" /> -->
           <div>Foto: © {{ doc.img_copyright }}</div>
         </div>
         <ContentRendererMarkdown :value="doc" />
@@ -23,6 +31,10 @@
 </template>
 
 <style>
+p {
+  @apply my-4;
+}
+
 p > a {
   @apply text-green-600 underline;
 }

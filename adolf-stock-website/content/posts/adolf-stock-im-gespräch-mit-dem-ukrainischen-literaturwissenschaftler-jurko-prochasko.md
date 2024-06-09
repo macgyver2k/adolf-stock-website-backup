@@ -1,8 +1,9 @@
 ---
 author: Adolf Stock
 title: Der ukrainische Literaturwissenschaftler und Publizist Jurko Prochasko über Lemberg als ein bedeutendes Zentrum in Mitteleuropa
-img: /images/posts/38d615_5d0074b360f4485aab087e170b373ac0~mv2.jpg
+img: /images/posts/people/38d615_5d0074b360f4485aab087e170b373ac0~mv2.jpg
 img_copyright: Nils Mertens
+youtube: https://www.youtube.com/embed/6oFLyiC_LT4
 ---
 
 # Der Literaturwissenschaftler und Publizist Jurko Prochasko 
@@ -42,7 +43,7 @@ Herr Prochasko, ich möchte mit Ihnen über die Rolle Lembergs für Mitteleuropa
 
 Wenn wir auf die Stadt Lemberg, auf die Namen von Lemberg schauen, dann gibt es sehr viele Bezeichnungen von dieser Stadt. Ursprünglich hieß diese Stadt Lwihorod und dann hieß es einfach Lwiw und dann  Lemburg, und dann Lemburga, und Lwów und dann hieß es plötzlich Lemberg. Und dann hieß es wieder Lwów, auf lateinisch Leopolis, auf Sanskrit heißt diese Stadt Singapur.
 
-
+![autos](/images/posts/pictures/38d615_3077f5f01ced485c808efe444f70da7f~mv2.webp)
 
 Das führt uns in eine Thematik, aber auch Problematik von Lemberg, die sehr wesentlich ist, um diese Stadt zu verstehen. Das ist diese Problematik von Drinnen und Draußen, von Exklusion und Inklusion, von Dazugehören und Nicht-Dazuzugehören. Von „Bürger der Stadt zu sein“ oder „kein Bürger dieser Stadt zu sein“.
 
@@ -55,7 +56,7 @@ Bruno Schulz spricht von der „genialen Epoche“, also ihrer goldenen Zeit, ih
 
 Aber aus dieser Zeit und aus dieser Materie wurde ein tragender Mythos gemacht. Wenn man jeden durchschnittlichen Lemberger oder auch Ukrainer fragt: Was ist Lemberg für euch? Dann bekommt man sofort die Antwort: Lemberg war „k. und k.“, Lemberg war Habsburg, und es ist aus vielen Gründen sehr wichtig zu verstehen, warum es so ist.
 
-
+![autos](/images/posts/pictures/38d615_206efbd383bd46f88570f18716dcb462~mv2.webp)
 
 Es geht natürlich auch um die exzeptionelle Schönheit der Bausubstanz in Lemberg. Lemberg war nicht nur irgendeine Stadt innerhalb der riesigen Donaumonarchie, sondern das war die Landeshauptstadt, also eine ganz wichtige Stadt, die Hauptstadt der größten Provinz, des größten Kronlandes.
 
@@ -70,7 +71,7 @@ Natürlich gehören wir zu Europa, aber natürlich auch nicht. Diese allgegenwä
 
 Wir sitzen hier in einem Lokal und gegenüber der Kirche „Maria im Schnee“. Es ist Gottesdienst, und die Gläubigen stehen bis auf den Vorplatz der Kirche, um dem Gottesdienst zu folgen.
 
-
+![autos](/images/posts/pictures/38d615_e864e988e761474ea20767d15d413b32~mv2.webp)
 
 ### Jurko Prochasko
 
@@ -90,7 +91,7 @@ Das Ansinnen des Josephinismus war, die Kulturszenen komplett auszutauschen. Es 
 
 Und man wusste auch, dass es zwei Arten von Juden hier gibt. Einerseits die orthodoxen Juden und dann die sogenannten aufgeklärten, die fortschrittlichen Juden, die Maskilim, also die Anhänger der Haskala. Und dann gab es die Armenier, obwohl die Armenier schon damals ziemlich stark polonisiert waren. Von allen ethnisch-religiösen Gruppen wurden die Armenier am frühesten polonisiert. Und es heißt, dass diese Armenier dann als Polen sozusagen in den Jahren 1945/46 übersiedelt umgesiedelt in die Volksrepublik Polen wurden und vielleicht auch deportiert.
 
-
+![autos](/images/posts/pictures/38d615_a6c43b64399a4d3c9f7d0c833ca877d2~mv2.webp)
 
 Um diesem sehr bunten Publikum einen neuen passablen, einheitlichen Namen zu verpassen, wurde diese galizische Identität erfunden. Es wurden neue Zeitschriften gegründet, durch diese österreichische Administrationstätigkeiten. Es wurde eine Tageszeitung gegründet. Sie erschien in den ersten Jahren auf Französisch, und dann erst einige Jahre später hat man sie eingedeutscht oder verdeutscht und dann auf Deutsch und auf Polnisch herausgegeben.
 
@@ -116,7 +117,7 @@ Das deutsche, das europäische Lemberg ist ein Produkt des aufgeklärten Absolut
 
 Die Aufklärung war damals so ein Argument für alles. Aufklärung war Legitimation zur Macht, Aufklärung war Legitimation für intellektuelle Tätigkeit, für eine Einstellung, für eine Gesinnung, für eine Haltung.
 
-
+![autos](/images/posts/pictures/38d615_d6a355bed05442939f55f5e1828f5b97~mv2.webp)
 
 Wer aufgeklärt war, der war modern und fortschrittlich, und wer nicht aufgeklärt war, war passé, das war kein Europa, das war keine Zivilisation. Es gibt ein wunderbares Buch von Larry Wolff „Inventing Eastern Europe“, wo er zeigt, wie damals, ab dem späten 18. Jahrhundert, das Konzept Osteuropa erfunden und konstruiert wurde.
 
@@ -142,7 +143,7 @@ Blicken wir ein wenig in die Geschichte. 1772 kam die Teilung Polens, damals wur
 
 Wir sehen schon, dass der Teilung Polens 1772, also der Demontage Polens, eine heftige intellektuelle Vorarbeit voranging. Und das bedeutete auch, als die Österreicher hier herkamen, gerade Lemberg und keine andere Stadt auserkoren haben, die Hauptstadt von dem neuen Kronland zu sein. Dass sie auch wirklich große, wahrnehmbare Zeichen setzen wollten, um zu zeigen, dass es anders geworden ist, dass eine andere Epoche angebrochen ist.
 
-
+![autos](/images/posts/pictures/38d615_3f0fa5fdb3814c919898590a351b9bdc~mv2.webp)
 
 So war ein materieller Ausdruck dieser Novationen, dass es in Wien entschieden wurde, sämtliche Wehranlagen dieser Stadt zu schleifen. War Lemberg davor eine klassische, typische, spätmittelalterliche Stadt, eine Burgstadt mit Befestigungen, so wurde in Wien anders gedacht.
 
@@ -155,7 +156,7 @@ Und schließlich gab es in Lemberg, und das ist ein weiteres Motiv, diese Zusamm
 
 Ja und weil eben in Wien diese Entscheidung gefallen war, hat man auch sofort angefangen, die Stadt in diesem Sinne umzugestalten. Bis dahin war es eine spätmittelalterliche Stadt, zwar barockisiert, aber eigentlich eine Stadt, wo Kaufleute, Geistliche und Handwerker saßen.
 
-
+![autos](/images/posts/pictures/38d615_80bea538d0844ed9a7e1411335c9c04a~mv2.webp)
 
 Es war bis dahin eigentlich eine reichsunmittelbare Adelsrepublik. Und nun sollte es eine Großstadt, eine moderne und mondäne Großstadt eines kontinentalen Imperiums werden, mit der Öffnung hin zur Modernisierung. Und diese Öffnung könnte man sich fast klassisch vorstellen – sie bestand unter anderem im Abreißen von den Wehranlagen.
 
@@ -166,7 +167,7 @@ Man hatte befunden, wenn schon diese Hunderte von österreichischen Beamten vom 
 Es wurde darauf hingearbeitet, dass Lemberg eine moderne, neuzeitliche, gemütliche und bequeme Stadt wird, die ihrem Status als Landeshauptstadt entspricht und nicht beschämt wird durch das Fehlen von wichtigen Institutionen. Das Deutschtum ist hier neu angekommen, das es bequem, schön und gemütlich hat.
 
 
-
+![autos](/images/posts/pictures/38d615_cbd9bf309b294ed39d5f32132b01cf23~mv2.webp)
 
 ### Adolf Stock
 
@@ -189,7 +190,7 @@ Es gab eine ganze Reihe von Autoren, die mit diesem Impetus kamen: Was haben wir
 
 Von Wien aus machte man sich auf diese Reise, um überhaupt erst einmal eine Bestandsaufnahme zu machen. Was ist los in diesem neuen Land? Wer lebt dort, was sind das für Menschen, was für ein Glauben, was für Sprachen, was für Häuser? All das genoss eine unglaubliche Popularität. Mit diesen Reiseberichten, diesen Briefen entwickelte sich so ein früher Topos in dieser galizischen Literatur, der sich dann weiter über die Jahrhunderte zieht. Und man kann Spuren von diesem Topos auch bei Hofmannsthal sehen.
 
-
+![autos](/images/posts/pictures/38d615_f28c5cb38c0143cf812f8f9951ae5147~mv2.webp)
 
 Zum Beispiel bei Josef Roth, der diese angebliche Rückständigkeit und diese angeblichen Nachteile decodiert, um einem Ort zu beschreiben, wo das wahre Wesen des Imperiums noch lebt, nämlich an der Peripherie, wo im Herzen schon eine Implosion stattgefunden hat. An der Peripherie lebt Habsburg noch, an den Rändern des Imperiums. Und so ist dieser Topos entstanden, der sich durch die gesamte österreichische Literatur zieht. Der Topos von Zurückgebliebenheit, von Rückständigkeit des Landes Galizien.
 
@@ -206,7 +207,7 @@ Aber es war nicht nur ein positiver Mythos?
 
 Während der Galizien-Mythos bei Ukrainern eine Verklärung ist, eben diese geniale Epoche, diese goldene Zeit, mit k. und k. und Europa, was mit Zivilisation gleichgesetzt wird, bleibt bis zuletzt dieser Galizien-Topos und Galizien-Mythos in der österreichischen Literatur und in der österreichischen kulturellen Tradition sehr düster.
 
-
+![autos](/images/posts/pictures/38d615_820269f0130d4355b761abfda89e21fd~mv2.webp)
 
 Dazu gesellt sich im Ersten Weltkrieg der Topos Tod. Wir haben das letzte Gedicht von Georg Trakel „Gródek“. Gródek ist nur 30 Kilometer von Lemberg entfernt, wo im September 1914 eine der ersten fürchterlichen Schlachten des Ersten Weltkrieges stattfand, und wo der sehr labile Militärarzt Georg Trakel Zeuge von diesem Gemetzel wird, und es psychisch überhaupt nicht verkraftet und einen psychischen Zusammenbruch erleidet. Er wird ins Spital nach Krakau gebracht, wo er sich dort eine Überdosis Morphium gibt.
 
@@ -222,7 +223,7 @@ Lemberg ist in seiner unsicheren Identität eben sehr stark darauf bedacht, die 
 
 Sie sind aus der polnischen Zeit Stanisław Lem, und der andere Kronzeuge ist ein wunderbarer, unglaublicher Sohn eines Polizeipräsidenten von Lemberg und Galizien, eines Mannes, der auch selber literarische Aspirationen hatte und auch selber ein Buch hinterlassen hat. Memorien, die „Denkwürdigkeit eines Lemberger Polizeipräsidenten“. Er dachte, das wäre schon das letzte Wort in der Literatur. Aber nein: Sein Sohn, der hier in Lemberg geboren wurde, hat sich als ein viel fähigerer Literat erwiesen. Er wurde ein sehr berühmterer Literat. Wir sind sehr stolz, dass Leopold von Sacher-Masoch hier geboren wurde.
 
-
+![autos](/images/posts/pictures/38d615_beb7c9461d564051b847d8ffa5d9d950~mv2.webp)
 
 Das ist für uns ein Beleg, dass die wirkliche Hauptstadt des Masochismus hier in Lemberg ist. Wir sind die Weltmeister des Masochismus, natürlich. Einmal Masochist, immer Masochist. Da hilft auch nicht die aus Galizien stammende Psychoanalyse, denn Freud, beide Eltern von Freud stammen auch aus Galizien.
 
@@ -252,6 +253,7 @@ Ja, er macht noch eine weitere Entwicklung. Er wird immer stärker von seiner ei
 
 Aber weil das zu offensichtlich gewesen wäre, versucht er diese folkloristischen Motive zu missbrauchen und Galizien zu missbrauchen als Dekoration für seine Triebe. Er versucht, was er empfindet, diese Gelüste, zu inszenieren in seinen Erzählungen als die natürlichen Bräuche dieses Landes.
 
+![autos](/images/posts/pictures/38d615_f4902cb74f1b43129e506c200890984a~mv2.webp)
 
 Zum Beispiel von den Huzulen, das ist ein exotisches unbekanntes Volk, dass er einerseits idealisiert und verklärt, als ein Volk von edlen freiliebenden Freiheitskämpfern. Andererseits schreibt er, unter den Huzulen gäbe es uralte Bräuche, dass Männer von den nackten Frauen im Bärenpelz ausgepeitscht werden.
 
@@ -271,7 +273,7 @@ Es gab noch weitere Autoren, etwa Józef Wittlin, ein Freund von Joseph Roth, de
 
 Er hat es als Halbjude noch geschafft, rechtzeitig in die USA zu gehen. Er hat aufgrund von Gerüchten und dann aufgrund von sehr widersprüchlichen Berichten und Zeitungsartikeln ein Buch über Lemberg geschrieben. Das ist in New York, im New Yorker Exil 1946, also in der Zeit, als er überhaupt nichts Genaueres wusste, erschienen. 
 
-
+![autos](/images/posts/pictures/38d615_b253942bb55d4f69834df3b053e5b8b2~mv2.webp)
 
 Er hörte nur schreckliche Nachrichten über schreckliche unbeschreibliche Ereignisse, aber wie es sich in Wirklichkeit mit seiner Stadt verhielt, wusste er nicht. Ein Buch, dass er dann „Mój Lwów“ genannt hat, oder „Mein Lemberg“ auf Deutsch. Es liegt eine deutsche Übersetzung vor.
 
@@ -284,7 +286,7 @@ Und so hat er in diesem finalem Passus eine wunderbare Beschreibung dieses Boule
 
 Ein zweites sehr wichtiges literarisches Dokument ist das entsprechende Kapitel aus dem Buch von einem Korrespondenten einer Berliner Zeitung. Der Autor ist berühmt geworden durch seinen Roman „Berlin Alexanderplatz“. Alfred Döblin wurde von der Redaktion nach diesem jungen europäischen Staat geschickt, nach Polen, um überhaupt zu erkunden, was dieses Polen ist. Er hat dann eine Reihe von polnischen Städten bereist, dazu gehörten damals auch das heutige Vilnius, die litauische Hauptstadt und eben das damalige Lwów, das heute ukrainische Lwiw.
 
-
+![autos](/images/posts/pictures/38d615_a3b41193800148fbaa69af87a1f18e88~mv2.webp)
 
 Auch in seinem Buch „Reise in Polen“ beschreibt er diese Straße, den Corso. Gut, das ist Literatur, und die Wirklichkeit ist, dass wir es hier mit einem städtischen urbanen Phänomen zu tun haben, dass erst relativ spät Bedeutung gewinnt.
 
@@ -314,7 +316,7 @@ Ursprünglich hatten alle Straßen und Orte zwei Namen, man benannte die Dinge a
 
 Heute ist der Freiheitsprospekt, der Corso, die Hauptstraße von Lemberg. Der Name bezieht sich auf 1991, als die Ukraine ein eigener Staat wurde, und natürlich erinnert er auch an den ewigen Traum des ukrainischen Volkes, das sich nach Souveränität und Freiheit sehnt.
 
-
+![autos](/images/posts/pictures/38d615_4a8da81bb46f437e9390e78b92125c95~mv2.webp)
 
 Der Freiheitsprospekt teilt die Stadt in zwei Teile, in die historische Altstadt und die neueren Viertel, ein Stück Ringbebauung, die später Wien zum Vorbild diente. Die Ringstraße wurde über einen kleinen Fluss gebaut, der nun drei Meter tief als Kanal unterhalb der Straße existiert und erst eine gutes Stück weiter, hinter dem repräsentativen Opernhaus, wieder an die Oberfläche kommt.
 
@@ -324,6 +326,7 @@ Diese Straße hat sich dann zu einem semantischen Kampfplatz entwickelt. Sowohl 
 
 Wenn wir alleine die unzähligen Umbenennungen dieser Straße anschauen. Da wo jetzt diese Figur aus Blech ist, stand plötzlich im Jahr 1941 ein riesiger Granitkubus mit in Frakturschrift gemeißelten Lettern „Adolf-Hitler-Ring“, danach hieß es plötzlich die „Straße des 1. Mai“ und dann hieß es der „Lenin-Prospekt“ und dann hieß es der „Freiheitsprospekt“. 
 
+![autos](/images/posts/pictures/38d615_23e61d1f3463402f94635b7d5fc8e854~mv2.webp)
 
 Und die Umbenennungen – von den unzähligen auftauchenden und wieder verschwundenen Denkmälern dann gar nicht zu sprechen – nicht, das ist auch ein Raum gewesen und bleibt, wo auch der Kampf der Denkmäler stattfindet. Und Lemberg lehrt eine Lektion, egal wie massiv, egal wie schwer Denkmäler sind: Es gibt überhaupt keine Garantie, dass sie für ewig sind.
 
