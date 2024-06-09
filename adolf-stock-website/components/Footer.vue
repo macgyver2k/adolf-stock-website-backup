@@ -21,16 +21,12 @@
 <script>
 const links = [
   {
-    label: "Start",
-    route: "/",
+    label: "Impressum",
+    route: "/impressum",
   },
   {
-    label: "Interviews",
-    route: "/blog",
-  },
-  {
-    label: "Projekt",
-    route: "/das-projekt",
+    label: "Datenschutz",
+    route: "/datenschutz",
   },
 ];
 

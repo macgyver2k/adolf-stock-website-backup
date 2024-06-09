@@ -7,13 +7,3 @@
     </ContentDoc>
   </div>
 </template>
-
-<style>
-ul {
-  @apply ml-6;
-}
-
-ul > li {
-  @apply list-disc;
-}
-</style>
