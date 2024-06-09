@@ -21,3 +21,9 @@
     </ContentDoc>
   </div>
 </template>
+
+<style>
+p > a {
+  @apply text-green-600 underline;
+}
+</style>
