@@ -26,7 +26,7 @@ Sendung von Adolf Stock [„Breslau – Das neu entdeckte Babylon“](http://www
 Oder: Hier können Sie die Sendung auch hören „[Torial: Breslau - Das neu entdeckte Babylon](http://www.torial.com/adolf.stock/portfolio/153340)“.
 
 
-Mein Interview mit Stanisław Lem auf dieser Plattform: [Adolf Stock im Gespräch mit Stanislaw Lem über Utopien und die Folgen des Umbruchs in Ost und West](/posts/adolf-stock-im-gespr%C3%A4ch-mit-stanislaw-lem-%C3%BCber-utopien-und-die-folgen-des-umbruchs-in-ost-und-west)
+Mein Interview mit Stanisław Lem auf dieser Plattform: [Adolf Stock im Gespräch mit Stanislaw Lem über Utopien und die Folgen des Umbruchs in Ost und West](/posts/adolf-stock-im-gesprach-mit-stanislaw-lem-uber-utopien-und-die-folgen-des-umbruchs-in-ost-und-west)
 
 
  

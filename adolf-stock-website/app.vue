@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
     <NavBar />
-    <NuxtPage class="min-h-screen px-4 py-8" />
+    <NuxtPage class="min-h-screen" />
     <Footer />
   </div>
 </template>

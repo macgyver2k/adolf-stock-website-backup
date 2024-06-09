@@ -1,13 +1,13 @@
 <template>
   <nav class="border-b p-4">
-    <ul class="flex flex-row gap-2">
+    <ul class="flex flex-row gap-4 md:gap-6 lg:gap-8">
       <li
         class="flex items-center hover:text-green-600 focus:text-gray-700"
         v-for="link in links"
         :key="link.route"
       >
         <nuxt-link
-          class="my-2 uppercase md:my-4 lg:my-0"
+          class="my-2 uppercase sm:text-lg md:my-4 md:text-xl lg:my-6 lg:text-2xl"
           @focusout="hide()"
           :to="`${link.route}`"
         >

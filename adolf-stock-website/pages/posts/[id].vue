@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col gap-4">
+  <div class="flex flex-col gap-4 px-4 py-8 lg:max-w-[50rem] lg:self-center">
     <ContentDoc>
       <template v-slot="{ doc }">
         <div class="flex flex-col gap-3">
