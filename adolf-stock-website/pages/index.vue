@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen bg-[url('images/mic.jpg')] bg-cover">
-    <h1 class="text-5xl">NACH<span class="text-[#80885b]">GEFRAGT</span></h1>
+    <h1 class="text-4xl">NACH<span class="text-[#80885b]">GEFRAGT</span></h1>
     <h2 class="text-3xl text-white">Das Interviewprojekt von Adolf Stock</h2>
     <h3 class="text-white">Neue Interviews</h3>
 

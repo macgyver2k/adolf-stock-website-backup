@@ -1,6 +1,6 @@
 <template>
-  <nav>
-    <ul class="flex flex-row gap-2 border-b p-4">
+  <nav class="border-b p-4">
+    <ul class="flex flex-row gap-2">
       <li
         class="flex items-center hover:text-green-600 focus:text-gray-700"
         v-for="link in links"
@@ -38,13 +38,7 @@ export default {
   data() {
     return {
       links: links,
-      expanded: false, // Falls expanded ein Teil der Komponentendaten ist
     };
-  },
-  methods: {
-    hide() {
-      // Methode hide() implementieren, falls erforderlich
-    },
   },
 };
 </script>

@@ -15,16 +15,15 @@
             allowfullscreen
           ></iframe>
 
-          <!-- <img :src="doc.img" /> -->
           <div>Foto: © {{ doc.img_copyright }}</div>
         </div>
         <ContentRendererMarkdown :value="doc" />
       </template>
       <template #not-found>
-        <p>No authors found.</p>
+        <p>Dieser Beitrag extiert nicht.</p>
       </template>
       <template #empty>
-        <p>Post is empty.</p>
+        <p>Dieser Beitrag hat noch keinen Inhalt.</p>
       </template>
     </ContentDoc>
   </div>
