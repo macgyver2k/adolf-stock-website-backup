@@ -2,7 +2,7 @@
   <nav>
     <ul class="flex flex-row gap-2 border-b p-4">
       <li
-        class="flex items-center hover:text-green-600"
+        class="flex items-center hover:text-green-600 focus:text-gray-700"
         v-for="link in links"
         :key="link.route"
       >
