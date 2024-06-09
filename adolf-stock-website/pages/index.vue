@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex min-h-screen flex-col bg-[url('images/mic.jpg')] bg-cover md:bg-[url('images/38d615_9af78986b2ca44cdbc93872bd31a3198~mv2.webp')]"
+    class="flex min-h-screen flex-col bg-[url('images/38d615_9af78986b2ca44cdbc93872bd31a3198~mv2.webp')] bg-cover"
   >
     <div class="px-4 py-8 lg:max-w-[50rem] lg:self-center">
       <h1 class="text-4xl md:text-6xl lg:text-8xl">
