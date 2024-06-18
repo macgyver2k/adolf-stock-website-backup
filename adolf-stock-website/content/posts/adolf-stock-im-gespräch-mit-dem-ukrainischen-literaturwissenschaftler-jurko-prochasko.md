@@ -1,6 +1,7 @@
 ---
 author: Adolf Stock
-title: Der ukrainische Literaturwissenschaftler und Publizist Jurko Prochasko über Lemberg als ein bedeutendes Zentrum in Mitteleuropa
+title: Adolf Stock im Gespräch mit dem ukrainischen Literaturwissenschaftler Jurko Prochasko
+headline: Der ukrainische Literaturwissenschaftler und Publizist Jurko Prochasko über Lemberg als ein bedeutendes Zentrum in Mitteleuropa
 img: /images/posts/people/38d615_5d0074b360f4485aab087e170b373ac0~mv2.jpg
 img_copyright: Nils Mertens
 youtube: https://www.youtube.com/embed/6oFLyiC_LT4

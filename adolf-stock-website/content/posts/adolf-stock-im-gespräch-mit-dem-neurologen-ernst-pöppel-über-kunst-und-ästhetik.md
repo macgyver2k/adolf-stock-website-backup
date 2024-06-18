@@ -1,6 +1,7 @@
 ---
 author: Adolf Stock
-title: Der Neurologe Ernst Pöppel über Kunst, Ästhetik und das Gute, Schöne und Wahre
+title: Adolf Stock im Gespräch mit dem Neurologen Ernst Pöppel über Kunst und Ästhetik
+headline: Der Neurologe Ernst Pöppel über Kunst, Ästhetik und das Gute, Schöne und Wahre
 img: /images/posts/people/38d615_3a15e803d5da4d4c88a28115b90ae878~mv2.jpg
 img_copyright: Ernst Pöppel
 youtube: https://www.youtube.com/embed/bdaeS_E9Y8E

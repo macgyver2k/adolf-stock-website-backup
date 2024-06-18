@@ -1,14 +1,12 @@
 ---
 author: Adolf Stock
-title: Die Kunsthistorikerin und Direktorin des Bauhaus-Archivs Annemarie Jaeggi über den Architekten Egon Eiermann
+title: Adolf Stock im Gespräch mit Annemarie Jaeggi über Egon Eiermann
+headline: Die Kunsthistorikerin und Direktorin des Bauhaus-Archivs Annemarie Jaeggi über den Architekten Egon Eiermann
 img: /images/posts/people/38d615_1269f34efec34824a663e32c5eabf42e~mv2.jpg
 img_copyright: Catrin Schmitt
 youtube: https://www.youtube.com/embed/1o7sUrIcZ7A
 date: 2024-01-02
 ---
-
-# Die Kunsthistorikerin und Direktorin des Bauhaus-Archivs Annemarie Jaeggi über den Architekten Egon Eiermann
-
 
 # Die Kunsthistorikerin Annemarie Jaeggi 
 Annemarie Jaeggi ist 1956 als Tochter eines Schweizer Diplomaten und einer Engländerin in Washington D.C. geboren. Von 1992 bis 2001 war sie wissenschaftliche Mitarbeiterin des Instituts für Kunstgeschichte der Universität Karlsruhe, wo sie 2001 über Walter Gropius und den Siedlungsbau promovierte. Annemarie Jaeggi war 2004 Kuratorin der Ausstellung Egon Eiermann (1904-1970) – Die Kontinuität der Moderne der Städtischen Galerie Karlsruhe. 2003 wird Annemarie Jaeggi Direktorin des Berliner Bauhaus-Archivs. Zahlreiche Preise: 2019 Ehrendoktorwürde der Karlsruher Universität, Julius Posener Preis 2020 vom Werkbund Berlin. 
