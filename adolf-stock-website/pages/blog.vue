@@ -1,7 +1,7 @@
 <template>
   <div class="px-4 py-8 lg:max-w-[50rem] lg:self-center">
     <div class="flex flex-col gap-4 md:grid md:grid-cols-2 lg:grid-cols-3">
-      <ContentQuery :path="'posts'">
+      <ContentQuery :path="'posts'" :sort="{ date: -1 }">
         <template #default="{ data }">
           <NuxtLink
             :to="post._path"

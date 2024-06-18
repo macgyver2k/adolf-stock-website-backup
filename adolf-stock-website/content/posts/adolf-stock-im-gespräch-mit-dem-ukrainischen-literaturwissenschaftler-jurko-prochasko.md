@@ -4,6 +4,7 @@ title: Der ukrainische Literaturwissenschaftler und Publizist Jurko Prochasko ü
 img: /images/posts/people/38d615_5d0074b360f4485aab087e170b373ac0~mv2.jpg
 img_copyright: Nils Mertens
 youtube: https://www.youtube.com/embed/6oFLyiC_LT4
+date: 2022-03-26
 ---
 
 # Der Literaturwissenschaftler und Publizist Jurko Prochasko 

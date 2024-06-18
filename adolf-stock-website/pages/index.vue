@@ -12,7 +12,7 @@
       <div
         class="mx-4 flex flex-col gap-4 md:mx-0 md:grid md:grid-cols-2 lg:grid-cols-3"
       >
-        <ContentQuery :path="'posts'">
+        <ContentQuery :path="'posts'" :sort="{ date: -1 }" :limit="3">
           <template #default="{ data }">
             <NuxtLink
               :to="post._path"

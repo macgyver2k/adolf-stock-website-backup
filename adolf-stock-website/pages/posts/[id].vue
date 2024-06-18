@@ -8,6 +8,7 @@
         </div>
         <div class="flex flex-col">
           <iframe
+            v-if="doc.youtube"
             :src="doc.youtube"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -15,7 +16,7 @@
             allowfullscreen
           ></iframe>
 
-          <div>Foto: © {{ doc.img_copyright }}</div>
+          <div v-if="doc.img_copyright">Foto: © {{ doc.img_copyright }}</div>
         </div>
         <ContentRendererMarkdown :value="doc" />
       </template>
