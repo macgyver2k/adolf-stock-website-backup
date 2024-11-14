@@ -12,16 +12,19 @@
       <div
         class="mx-4 flex flex-col gap-4 md:mx-0 md:grid md:grid-cols-2 lg:grid-cols-3"
       >
-        <ContentQuery :path="'posts'" :sort="{ date: -1 }" :limit="3">
+        <ContentQuery :path="'posts'" :sort="{ date: -1 }" :limit="6">
           <template #default="{ data }">
             <NuxtLink
               :to="post._path"
               v-for="post of data"
               :key="post.title"
-              class="flex flex-col border border-gray-300 bg-[#f3f4ee]"
+              class="flex flex-col gap-4 border-gray-100 bg-[#f3f4ee]"
             >
-              <img :src="post.img" class="" />
-              <div class="flex flex-col gap-3 p-4">
+              <img
+                class="h-32 object-cover"
+                :src="'images' + post._path + '/' + post.img"
+              />
+              <div class="flex flex-grow flex-col gap-3 p-4">
                 <div class="text-xs">{{ post.author }}</div>
                 <div>{{ post.title }}</div>
               </div>

@@ -7,9 +7,12 @@
             :to="post._path"
             v-for="post of data"
             :key="post.title"
-            class="flex flex-col border border-gray-300 bg-[#f3f4ee]"
+            class="flex flex-col border border-gray-300 bg-[#f3f4ee] shadow-sm transition-shadow hover:border-gray-400 hover:shadow-md"
           >
-            <img :src="post.img" />
+            <img
+              class="h-32 object-cover"
+              :src="'/images' + post._path + '/' + post.img"
+            />
             <div class="flex flex-col gap-3 p-4">
               <div class="text-xs">{{ post.author }}</div>
               <div>{{ post.title }}</div>

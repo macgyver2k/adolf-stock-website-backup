@@ -4,7 +4,7 @@
       <template v-slot="{ doc }">
         <div class="flex flex-col gap-3">
           <div class="text-xs">{{ doc.author }}</div>
-          <h1>{{ doc.title }}</h1>
+          <h1>{{ doc.headline }}</h1>
         </div>
         <div class="flex flex-col">
           <iframe
@@ -14,9 +14,13 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen
+            class="h-48 sm:h-96"
           ></iframe>
 
-          <div v-if="doc.img_copyright">Foto: © {{ doc.img_copyright }}</div>
+          <div v-if="doc.img_copyright">
+            Foto: © {{ doc.img_copyright }}
+            <ContentRendererMarkdown :value="doc.img_copyright" />
+          </div>
         </div>
         <ContentRendererMarkdown :value="doc" />
       </template>

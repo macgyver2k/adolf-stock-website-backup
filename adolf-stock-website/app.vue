@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
-    <NavBar />
-    <NuxtPage class="min-h-screen" />
+    <NavBar class="sticky top-0" />
+    <NuxtPage style="min-height: calc(100vh - 12rem)" />
     <Footer />
   </div>
 </template>
